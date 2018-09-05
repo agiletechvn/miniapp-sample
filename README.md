@@ -1,3 +1,3 @@
 ## MINIAPP - BASE
 
-Base app required by super app
+Mini app required by super app
